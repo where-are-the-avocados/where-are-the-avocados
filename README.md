@@ -1,5 +1,5 @@
 ## About me!
-Hi, I’m Rhia-nnon, but you can call me Rhi! or Rhia! I used to be a CPA but now I'm dedicated to programming!
+Hi, My username Rhia-nnon, I'm a Certified Public Accountant who works on the data science area, I'm currently investigating forecasts models to be used on financial auditing.
 
 ## Interests!
 I’m currently interested in data analytics, web design and virtualization! 
