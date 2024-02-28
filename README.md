@@ -1,9 +1,8 @@
 ## About me!
-Hi, You can call me Rhiannon. I work on the data science area, I also love map modeling for Goldsrc games.
-I have a project on a personal blog!
+Hi, You can call me Rhiannon. I am a trans girl from Viña del Mar, Chile. Don't be ashamed to reach me here or on my website!
 
 ## Interests!
-I’m currently interested in data analytics, web design and virtualization! 
+I’m currently interested in data science, web design and virtualization! 
 - Favorite OS:  ![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
 - Currently playing: Metroid Fusion (GBA)
 
