@@ -1,5 +1,6 @@
 ## About me!
-Hi, My username Rhia-nnon, I'm a Certified Public Accountant who works on the data science area, I'm currently investigating forecasts models to be used on financial auditing.
+Hi, You can call me Rhiannon. I work on the data science area, I also love map modeling for Goldsrc games.
+I have a project on a personal blog!
 
 ## Interests!
 I’m currently interested in data analytics, web design and virtualization! 
