@@ -1,5 +1,5 @@
 ## About me!
-Hi, You can call me Rhiannon. Don't be ashamed to reach me here or on my website!
+Hi, You can call me Rhiannon. I'm a trans girl from Chile, interested in statistics and data science. Currently learning map modding and python. Don't be ashamed to reach me here or on my website!
 
 ## Interests!
 I’m currently interested in data science, web design and virtualization! 
