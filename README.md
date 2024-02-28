@@ -1,5 +1,5 @@
 ## About me!
-Hi, You can call me Rhiannon. I am a trans girl from Viña del Mar, Chile. Don't be ashamed to reach me here or on my website!
+Hi, You can call me Rhiannon. Don't be ashamed to reach me here or on my website!
 
 ## Interests!
 I’m currently interested in data science, web design and virtualization! 
