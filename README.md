@@ -4,7 +4,7 @@ Hi, You can call me Rhiannon. I'm a trans girl from Chile, interested in statist
 ## Interests!
 I’m currently interested in data science, web design and virtualization! 
 - Favorite OS:  ![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
-- Currently playing: Metroid Fusion (GBA)
+- Currently playing: Final Fantasy XI
 
 ## Technical skills!
 - HTML
