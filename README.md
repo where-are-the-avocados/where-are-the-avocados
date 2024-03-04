@@ -3,7 +3,6 @@ Hi, You can call me Rhiannon. I'm a trans girl from Chile, interested in statist
 
 ## Interests!
 I’m currently improving my skills in data science with R language, web design and virtualization! 
-- Favorite OS: Windows 98
 - Currently playing: Final Fantasy XI
 
 ## Technical skills!
